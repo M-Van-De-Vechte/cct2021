@@ -1,0 +1,232 @@
+html{
+  height: 100%;
+}
+
+body {
+
+  font-family: 'Roboto Slab', serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/*#navlist {
+  padding: 90px 10px;
+}
+*/
+
+#brand a{
+  font-size: 20px;
+  color: #fff;
+}
+
+#nav {
+  color: #fff;
+}
+#nav ul li a {
+  font-size: 16px;
+  color: #fff;
+}
+
+#nav ul li a:hover {
+  font-size: 16px;
+  color: #ababab;
+}
+
+.dropdown-menu {
+  background-color: #ababab;
+  color: #171717;
+}
+
+.drpdwn{
+  color: #171717;
+}
+
+#sect0-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_557164-adventure-alpine.jpg?v=1617716124181");
+  opacity: .9;
+}
+
+#sect0-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_539678.jpg?v=1617716109594");
+}
+
+#sect0-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_forest-black-amp-white-3840%C3%972160%20(1).jpg?v=1617716124322");
+}
+
+#sect1-0 {
+ background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_guitar.jpg?v=1617716119335");
+}
+
+#sect1-1 {
+background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F85817.jpg?v=1617719965573");
+}
+
+#sect1-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_the-lineman-pixabay.jpg?v=1617716068346");
+}
+
+#sect2-0 {
+ background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download%20(1).png?v=1617716107649");
+}
+
+#sect2-1 {
+background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+
+#sect2-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_Screenshot%202021-03-26%20122242.png?v=1617716121923");
+  height: 100%;
+}
+
+#sect3-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+#sect3-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+#sect3-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+#sect3-3 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+#sect3-4 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F33594a6d-e029-4e63-a07d-9eac5405d089_download.png?v=1617716088969");
+}
+
+#sect4-0 {
+  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+}
+
+#sect4-1 {
+  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+}
+
+#sect4-2 {
+  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+}
+
+.para {
+  height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+.content {
+  text-align: center;
+}
+
+.content p {
+  margin: 20px;
+  /*font-size: 1.3vw; */
+}
+
+footer {
+  background-color: #080808;
+  list-style-type: none;
+  padding: 15px;
+  text-align: center;
+}
+
+footer ul li  {
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+  padding: 15px;
+}
+footer ul li a {
+  color: #fff;
+}
+
+footer ul li a:hover {
+  color: #ababab;
+}
+
+ul { 
+  list-style-type: none; 
+} 
+
+a:link, a:hover{
+  text-decoration: none;
+}
+  
+#cara {
+  margin: 60px;
+}
+#fttg {
+  color: #fff;
+}
+
+/*If the screen size is 601px wide or more, set the font-size of <div> to 80px 
+@media screen and (min-width: 320px && max-width: 767px) {
+  .content p {
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width: 768px && max-width: 1199px) {
+  .content p {
+    font-size: 60px;
+  }
+}*/
+
+
+/*If the screen size is 600px wide or less, set the font-size of <div> to 30px 
+@media screen and (max-width: 1200) {
+  .content p {
+    font-size: 800px;
+  }
+}*/
+
+
+
+
+.aq {
+  background-color: #096A6D;
+  color: #fff;
+}
+
+#wh {
+  background-color: #fff;
+  color: #096A6D;
+}
+
+#scratchEmb {
+  width: 100%;
+  height: 100vh;
+}
+
+
+#clr {
+  background-color: #096A6D;
+  color: #fff;
+}
+
+#bnw {
+  background-color: #171717;
+  color: #fff;
+}
+
+#terms {
+  margin-left: 25px;
+}
