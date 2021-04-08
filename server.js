@@ -30,10 +30,6 @@ app.get("/caesar.html", (request, response) => {
   response.sendFile(__dirname + "/views/caesar.html");
 });
 
-app.get("/cash.html", (request, response) => {
-  response.sendFile(__dirname + "/views/cash.html");
-});
-
 app.get("/contact.html", (request, response) => {
   response.sendFile(__dirname + "/views/contact.html");
 });
@@ -72,6 +68,14 @@ app.get("/web.html", (request, response) => {
 
 app.get("/mario.html", (request, response) => {
   response.sendFile(__dirname + "/views/mario.html");
+});
+
+app.get("/privacy.html", (request, response) => {
+  response.sendFile(__dirname + "/views/privacy.html");
+});
+
+app.get("/runoff.html", (request, response) => {
+  response.sendFile(__dirname + "/views/runoff.html");
 });
 
 // listen for requests :)

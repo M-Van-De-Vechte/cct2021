@@ -108,6 +108,108 @@ background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df48
   background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
 }
 
+#sectM-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2FMario.png?v=1617801570455");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectM-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2FMario.png?v=1617801570455");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectM-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2FMario.png?v=1617801570455");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+.mario {
+  margin-right: 15vw;
+  margin-left: 15vw;
+}
+
+.hello {
+  margin-right: 15vw;
+  margin-left: 15vw;
+}
+
+#sectH-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fwaving.jpg?v=1617805458956");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectH-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fwaving.jpg?v=1617805458956");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectC-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F1_APN-YBzs6RCAIRCE5dYeNA.jpeg?v=1617890142711");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectC-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F1_APN-YBzs6RCAIRCE5dYeNA.jpeg?v=1617890142711");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectC-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2F1_APN-YBzs6RCAIRCE5dYeNA.jpeg?v=1617890142711");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+.caesar {
+  margin: 2vw 15vw 2vw 15vw
+}
+
+#sectR-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fballots.jpg?v=1617894938570");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectR-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fballots.jpg?v=1617894938570");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectR-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fballots.jpg?v=1617894938570");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+.runoff {
+  margin: 2vw 15vw 2vw 15vw
+}
+
+#sectW-0 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617896094745");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectW-1 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617896094745");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+#sectW-2 {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617896094745");
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
 .para {
   height: 75%;
   background-attachment: fixed;

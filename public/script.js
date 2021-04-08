@@ -35,5 +35,5 @@ function bnw() {
 }
 
 function home() {
- alert("Please Try again")
+ alert("Please Try again");
 }
