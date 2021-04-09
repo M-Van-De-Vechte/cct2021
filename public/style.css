@@ -97,15 +97,21 @@ background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df48
 }
 
 #sect4-0 {
-  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617933943269");
+  webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
 }
 
 #sect4-1 {
-  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617933943269");
+  webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
 }
 
 #sect4-2 {
-  background-image: url("https://www.natare.com/wp-content/uploads/2017/06/weird.jpg");
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcode.jpg?v=1617933943269");
+  webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
 }
 
 #sectM-0 {
@@ -331,4 +337,33 @@ a:link, a:hover{
 
 #terms {
   margin-left: 25px;
+}
+
+.bout p {
+  font-size: 18px;
+}
+
+#cook {
+  background-image: url("https://cdn.glitch.com/0e32a7d5-0dcd-4894-9186-dc8165df481c%2Fcookie-monster.jpeg?v=1617930551710");
+  height:100vh;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+#txt {
+  padding: 15px 15px 15px 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #171717;
+  opacity: .9;
+  color: #fff;
+}
+
+#back {
+  background-color: #fff;
+  color: #171717;
+  font-size: 20px;
 }

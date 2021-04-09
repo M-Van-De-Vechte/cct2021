@@ -54,10 +54,6 @@ app.get("/lesson-3-algorithms.html", (request, response) => {
   response.sendFile(__dirname + "/views/lesson-3-algorithms.html");
 });
 
-app.get("/lesson-4-memory.html", (request, response) => {
-  response.sendFile(__dirname + "/views/lesson-4-memory.html");
-});
-
 app.get("/terms-and-conditions.html", (request, response) => {
   response.sendFile(__dirname + "/views/terms-and-conditions.html");
 });
